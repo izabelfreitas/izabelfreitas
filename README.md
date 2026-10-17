@@ -17,22 +17,6 @@ Meu objetivo é aprender na prática, desenvolver projetos, construir laboratór
 - 🌐 Estudando **Redes e Infraestrutura**
 - 🚀 Desenvolvendo projetos para construir meu portfólio profissional
 
----
-
-## 🎯 Atualmente estudando
-
-| Área | Foco de estudo |
-|---|---|
-| 🔐 Segurança | Fundamentos de Segurança |
-| 🛡️ Blue Team | Defesa e Monitoramento |
-| 🚨 SOC | Monitoramento e Análise de Eventos |
-| 🔎 Investigação | Análise e Investigação de Incidentes |
-| 🌐 Redes | Fundamentos e Segurança de Redes |
-| 🐧 Linux | Administração e Segurança |
-| ☁️ AWS | Cloud e Segurança em Nuvem |
-| 🔑 Identidade | IAM e Controle de Acesso |
-
----
 
 ## 📫 Contato
 
