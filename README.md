@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Izabel!
 
-🔐 **Cyber Security | Technical Support Analyst | Cloud & AWS**
+🔐 **IT Support Analyst | Cybersecurity Student | Linux | Networking**
 
 Sou Analista de suporte técnico e estou construindo minha carreira na área de **Cyber Security**, aprofundando meus conhecimentos em segurança da informação, infraestrutura, redes, sistemas e computação em nuvem.
 
